@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxidollar007
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning some language 
-- 💞️ I’m looking to collaborate on my friend 
+- 🌱 I’m currently learning some languages
+- 💞️ I’m looking to collaborate on my friends 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
